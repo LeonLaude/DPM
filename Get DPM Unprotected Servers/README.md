@@ -16,10 +16,10 @@ Provide the following information:
 
 The result from the script, showing the unprotected servers:
 
-![alt text](https://github.com/LeonLaude/Get.DPM.Unprotected.Servers/blob/master/Media/DPM-UnprotectedServers.png)
+![alt text](https://github.com/LeonLaude/DPM/blob/master/Get%20DPM%20Unprotected%20Servers/Media/DPM-Unprotected-Servers.png)
 
 
 The protected and unprotected servers in the System Center DPM Administrator console:
 
-![alt text](https://github.com/LeonLaude/Get.DPM.Unprotected.Servers/blob/master/Media/DPM-UnprotectedServers2.png)
+![alt text](https://github.com/LeonLaude/DPM/blob/master/Get%20DPM%20Unprotected%20Servers/Media/DPM-Unprotected-Servers2.png)
 
