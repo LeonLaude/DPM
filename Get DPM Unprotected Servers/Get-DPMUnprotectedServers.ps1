@@ -1,0 +1,1 @@
+Get-DPMProductionServer -DPMServerName <DPMServerName> | Where-Object {$_.ServerProtectionState -eq "NoDatasourcesProtected"}
