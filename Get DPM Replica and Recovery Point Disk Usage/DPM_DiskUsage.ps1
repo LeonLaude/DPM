@@ -6,7 +6,7 @@
 # This script will retrieve the size of the replicas and recoverypoints being used by DPM.
 # 
 
-$DPMServerName = "Enter your DPM server"
+$DPMServerName = Read-Host "Enter your DPM server"
 $Information = @()
 
 # Opening a DPM PowerShell session
